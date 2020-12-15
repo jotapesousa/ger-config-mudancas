@@ -1,3 +1,3 @@
 texto 01 alterado para estudos. nova alteração.
 nov alteração dentro de branch
-Temos aqui uma nova linha que foi adicionada.
+Temos aqui uma nova linha que foi adicionada e concatenada com as alterações da branch hotfix02
